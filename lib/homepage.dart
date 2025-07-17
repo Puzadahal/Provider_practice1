@@ -21,7 +21,7 @@ class HomePage extends StatelessWidget {
         const SizedBox(height: 20),
         const Text(
           'This is a simple Flutter app using Provider.',
-          style: TextStyle(fontSize: 18),
+          style: TextStyle(fontSize: 20),
         ),
         const SizedBox(height: 40),
         ElevatedButton(
